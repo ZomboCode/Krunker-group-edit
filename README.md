@@ -1,5 +1,8 @@
 # Advanced krunker group edit
-Useful for massive trigger circuits
+Adds a Javascript console on the bottom left corner of Krunker editor
+Similar to Bob_lap's specific property editor, but more comfort to use.
+Can be closed while not used.
+Useful for massive trigger circuits, coloring objects, changing health or respawn timers and way more
 
 Basic Javascript knowledge needed for using
 
