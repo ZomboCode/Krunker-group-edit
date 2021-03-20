@@ -4,17 +4,8 @@ Basic Javascript knowledge needed for using
 
 Installation guide:
 
-Download this file
-
-Go to extensions -> tampermonkey -> add new script
-
-Delete the existing script
-
-Drag and drop the downloaded txt file
-
-Ctrl + s to save
-
-Go to krunker.io/editor.html and enjoy
-
-
+1. Download Tampermonkey for your browser
+(If you use editor+, this is done for you already)
+2. Download the userscript
+[Download link](https://gist.github.com/ZomboCode/a294eaa98281198cc51370ce113be03c/raw/79a498ae0ce9f27d5a741730c90949aaaa5bfebb/property-editor.user.js)
 
