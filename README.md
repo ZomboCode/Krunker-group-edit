@@ -3,7 +3,7 @@ Useful for massive trigger circuits
 
 Basic Javascript knowledge needed for using
 
-Installation guide:
+# Installation guide
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/) for your browser
 
