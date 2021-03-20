@@ -7,8 +7,6 @@ Can be closed while not used.
 
 Useful for massive trigger circuits, coloring objects, changing health or respawn timers and way more.
 
-Basic Javascript knowledge needed for using
-
 # Installation guide
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/) for your browser (If you use editor+, this is done for you already)
