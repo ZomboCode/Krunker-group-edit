@@ -5,7 +5,7 @@
 // @description  For working with massive trigger circuits
 // @author       ZomboCom
 // @match        https://krunker.io/editor.html
-// @require 
+// @require      https://github.com/ZomboCode/Krunker-group-edit/blob/main/Property-editor.js
 // @grant        none
 // ==/UserScript==
 
