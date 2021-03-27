@@ -11,7 +11,7 @@ Useful for massive trigger circuits, coloring objects with a gradient, changing 
 
 1. Download [Tampermonkey](https://www.tampermonkey.net/) for your browser (If you use editor+, this is done for you already)
 
-2. Install the [userscript](https://gist.github.com/ZomboCode/a294eaa98281198cc51370ce113be03c/raw/61ec851b4400367b1966ba48379eca15a32ab5a3/property-editor.user.js)
+2. Install the [userscript](https://gist.github.com/ZomboCode/a294eaa98281198cc51370ce113be03c/raw/4450e7e238b0c4eb07a034fb50fb54eed35e474e/property-editor.user.js)
 
 3. https://krunker.io/editor.html - enjoy
 
